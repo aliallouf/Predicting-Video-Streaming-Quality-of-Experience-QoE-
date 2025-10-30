@@ -24,6 +24,7 @@ A Random Forest classifier was trained on the entire dataset to predict the MOS 
 A K-Means clustering algorithm was applied to key user features to segment users into three distinct groups. These groups were analyzed and identified as:
 
 **Cluster 0 (Standard Users)**: Average performance across metrics.
+**Cluster 1 (Premium User Group)**: Characterized by high bitrate and framerate, with a relatively high MOS[cite: 3].
 **Cluster 2 (Frustrated User Group)**: Suffered from high buffering and low framerates, resulting in the lowest average MOS.
 
 
