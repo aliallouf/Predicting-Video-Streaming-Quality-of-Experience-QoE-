@@ -1,6 +1,6 @@
 # Improving MOS Prediction in Mobile Networks: A Segmentation-Based Approach
 
-This project analyzes the Poqemon-QoE-Dataset to predict the Mean Opinion Score (MOS) for video streaming in mobile networks.
+This project analyzes the Poqemon-QoE-Dataset (https://github.com/Lamyne/Poqemon-QoE-Dataset/tree/master) to predict the Mean Opinion Score (MOS) for video streaming in mobile networks.
 
 The core idea is to move from a single, global prediction model to a user-centric approach. By first segmenting users based on their behavior and network conditions, we can build more accurate and specialized models for each user group.
 
